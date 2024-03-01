@@ -1,0 +1,3 @@
+卫视频道,#genre#
+
+湖南卫视,http://36.96.38.246:8888/newlive/live/hls/23/live.m3u8
