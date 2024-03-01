@@ -214,14 +214,14 @@ EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-港台（凤凰）卫视,#genre#
+港台卫视,#genre#
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8
 凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-💞少儿,#genre#
+少儿频道,#genre#
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-💞电影频道,#genre#
+电影频道,#genre#
 邵氏影院,http://43.138.170.29:35455/douyu/4246519
 怡寳影院,http://43.138.170.29:35455/douyu/434971
 神乐影院,http://43.138.170.29:35455/douyu/85894
